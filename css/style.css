@@ -1,0 +1,59 @@
+table{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+th,tr,td{
+	text-align: center;
+}
+
+#hora{
+	background-color: black;
+	color: white;
+	border: 2px solid black;
+}
+
+#WEB{
+	background-color: #E90000;
+	color: white;
+	border: 2px solid black;
+}
+
+#IA{
+	background-color: #0BAF45;
+	color: white;
+	border: 2px solid black;
+}
+
+#VD{
+	background-color: #2281D1;
+	color: white;
+	border: 2px solid black;
+}
+
+#TI{
+	background-color: #C317C1;
+	color: white;
+	border: 2px solid black;
+}
+
+#CER{
+	background-color: #FF9D11;
+	color: white;
+	border: 2px solid black;
+}
+
+#res{
+	background-color: #954545;
+	color: white;
+	border: 2px solid black;
+}
+
+#L{
+	background-color: white;
+}
+
+table{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
